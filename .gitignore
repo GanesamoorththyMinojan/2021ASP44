@@ -1,0 +1,17 @@
+# R temporary files
+.RData
+.Rhistory
+.Rproj.user/
+
+# Large original datasets
+data/isolates*
+data/Ecoli_AMR_Original*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+# Large CSV file in project root
+/isolates.csv
+
+# Assignment PDF
+/ICA3_Bioinformatics_2026.pdf
