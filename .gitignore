@@ -15,3 +15,16 @@ Thumbs.db
 
 # Assignment PDF
 /ICA3_Bioinformatics_2026.pdf
+
+# Temporary R files
+.RDataTmp
+
+# Temporary troubleshooting outputs
+results/column_parsing_summary.csv
+results/csv_parsing_issues.csv
+results/date_parsing_issues.csv
+results/extra_column_issues.csv
+results/parsing_issue_details.csv
+results/parsing_issue_summary.csv
+results/problematic_row_numbers.csv
+results/isolates_import_checkpoint.rds
