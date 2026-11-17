@@ -1,0 +1,42 @@
+  X.Organism.group        Strain       Isolate.identifiers
+ Length   :523970   Length   :523970   Length   :523970   
+ N.unique :     1   N.unique :336605   N.unique :522249   
+ N.blank  :     0   N.blank  :166034   N.blank  :     0   
+ Min.nchar:    19   Min.nchar:     0   Min.nchar:     3   
+ Max.nchar:    19   Max.nchar:    75   Max.nchar:   196   
+                                                          
+      Serovar            Isolate          Create.date    
+ Length   :523970   Length   :523970   Length   :523970  
+ N.unique :  3067   N.unique :523920   N.unique :275921  
+ N.blank  :441526   N.blank  :    51   N.blank  :     4  
+ Min.nchar:     0   Min.nchar:     0   Min.nchar:     0  
+ Max.nchar:    70   Max.nchar:    42   Max.nchar:    20  
+                                                         
+      Location       Isolation.source    Isolation.type  
+ Length   :523970   Length   :523970   Length   :523970  
+ N.unique :  3248   N.unique :  6704   N.unique :    30  
+ N.blank  : 63845   N.blank  :193406   N.blank  :140516  
+ Min.nchar:     0   Min.nchar:     0   Min.nchar:     0  
+ Max.nchar:   134   Max.nchar:   225   Max.nchar:    39  
+                                                         
+    Food.origin        SNP.cluster          Min.same     
+ Length   :523970   Length   :523970   Length   :523970  
+ N.unique :   157   N.unique : 57932   N.unique :   156  
+ N.blank  :491400   N.blank  :204053   N.blank  :301703  
+ Min.nchar:     0   Min.nchar:     0   Min.nchar:     0  
+ Max.nchar:    35   Max.nchar:    19   Max.nchar:    19  
+                                                         
+      Min.diff          BioSample           Assembly     
+ Length   :523970   Length   :523970   Length   :523970  
+ N.unique :   116   N.unique :523629   N.unique :429260  
+ N.blank  :438390   N.blank  :   147   N.blank  : 94709  
+ Min.nchar:     0   Min.nchar:     0   Min.nchar:     0  
+ Max.nchar:    15   Max.nchar:    14   Max.nchar:    15  
+                                                         
+   AMR.genotypes      Computed.types  
+ Length   :523970   Length   :523970  
+ N.unique :147824   N.unique :    90  
+ N.blank  :    27   N.blank  :523743  
+ Min.nchar:     0   Min.nchar:     0  
+ Max.nchar:  1000   Max.nchar:   348  
+ NAs      :     8                     
